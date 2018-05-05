@@ -1,6 +1,6 @@
 ﻿# Guia para aprender a programar (2 Meses)
 
-# Antes de empezar el curso, trata de tener una mente abierta. Nadie fue bueno en algo desde el inicio, todo se crea con esfuerzo y determinacion. Si no entiendes algo, mira los videos otra vez y/o busca lo que no entiendes en internet para mas clarificacion. No se califica nada, esto se trata de aprender.
+## Antes de empezar el curso, trata de tener una mente abierta. Nadie fue bueno en algo desde el inicio, todo se crea con esfuerzo y determinacion. Si no entiendes algo, mira los videos otra vez y/o busca lo que no entiendes en internet para mas clarificacion. No se califica nada, esto se trata de aprender.
 
 ## Primer Mes
 
